@@ -1,0 +1,26 @@
+header{background-color: rgb(255, 255, 255); height: 100%;}
+main{background-color: blueviolet;}
+footer{background-color: blue; height: 150px; transform: rotate(180deg);}
+body{margin: 0;}
+header,main,footer{
+margin-left: auto;
+margin-right: auto;}
+ul{display: flex; list-style-type: none; padding: 0; justify-content: center; margin-bottom: 20px;}
+li{border: 1px solid rgb(0, 0, 0);
+    font-size: 35px; 
+    padding-left: 5px; 
+    padding-right: 5px; 
+    background-color: pink; 
+    color: rgb(250, 127, 148); 
+    text-shadow: 1px 0 1px #3d3d3d, 
+    0 1px 1px #3d3d3d, 
+    -1px 0 1px #3d3d3d, 
+    0 -1px 1px #3d3d3d;}
+nav{vertical-align: middle;}
+li:hover{cursor: pointer; text-decoration: underline;}
+main.m1{background-image: url("dogs_img.jpg"); background-size: 100%; background-repeat: no-repeat; height: 660px;}
+p{font-size: 70px; text-align: center; font-weight: 700; color: #19523E; background-color: rgba(255, 255, 0, 0.253);}
+a{text-decoration: none;}
+main.m2{background-color: antiquewhite;}
+tr{font-size: 30px;}
+th{font-size: 50px; text-align: left;}
