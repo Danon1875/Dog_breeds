@@ -1,5 +1,5 @@
 header{background-color: rgb(255, 255, 255); height: 100%;}
-main{background-color: blueviolet;}
+/* main{background-color: blueviolet;} */
 footer{background-color: blue; height: 150px; transform: rotate(180deg);}
 body{margin: 0;}
 header,main,footer{
