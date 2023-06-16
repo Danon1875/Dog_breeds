@@ -26,7 +26,6 @@ tr{font-size: 30px;}
 th{font-size: 50px; text-align: left;}
 .img{
     background-size: 100%;
-    height: 1000px;
     background-image: url("img1.png");
     animation-name: img1;
     animation-duration: 25s;
